@@ -1,0 +1,6 @@
+framework module Pods_STSendGiftDemo {
+  umbrella header "Pods-STSendGiftDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
